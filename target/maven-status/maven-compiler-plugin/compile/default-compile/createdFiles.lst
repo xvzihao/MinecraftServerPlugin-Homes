@@ -1,0 +1,7 @@
+alex\plugins\homes\Commands\RemoveHome.class
+alex\plugins\homes\Commands\ListHome.class
+alex\plugins\homes\Commands\GoTo.class
+alex\plugins\homes\Commands\Home.class
+alex\plugins\homes\HomeContainer.class
+alex\plugins\homes\Commands\AddHome.class
+alex\plugins\homes\Commands\PlayerList.class

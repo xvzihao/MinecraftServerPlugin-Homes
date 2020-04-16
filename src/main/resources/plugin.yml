@@ -1,0 +1,22 @@
+name: Homes
+version: ${project.version}
+main: alex.plugins.homes.Homes
+api-version: 1.15
+authors: [Alex]
+description: A basic plugin for players to set homes
+commands:
+  example:
+    description: Example of Homes
+    usage: /<command> <args>..
+  addhome:
+    description: Command for AddHome
+    usage: /<command> <HomeName>
+  rmhome:
+    description: Command to remove a home
+    usage: /<command> <HomeName>
+  home:
+    description: Command for BackHome
+    usage: /<command> <HomeName>
+  listhome:
+    description: Command to list all homes
+    usage: /<command>
